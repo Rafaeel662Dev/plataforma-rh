@@ -8,6 +8,6 @@ A **Plataforma RH** é uma solução focada em recursos humanos, com funcionalid
 1. Clone este repositório:
    git clone https://github.com/robertoscolar/plataforma-rh.git
 
-2. Execute o código, necessário ter o xampp instalado para roda o php.
+2. Execute o código, necessário ter o xampp instalado para rodar o php
 
 ##
